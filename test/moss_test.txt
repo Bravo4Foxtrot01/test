@@ -1,0 +1,16 @@
+关于MOSS的配置
+https://student.eait.uq.edu.au/accounts/sshkeys.ephp
+https://student.eait.uq.edu.au/infrastructure/remote-access/ssh.html
+
+我使用的是/Users/zjc/.ssh/id_ed25519.pub中的key
+
+启动的时候需要再输一个动态验证码，就是Duo Mobile中的验证码
+
+
+启动服务端
+/local/courses/coms3200
+./bin/demo-chatserver 1000 /home/students/s4870612/test/config_file
+
+启动客户端
+/local/courses/coms3200
+./bin/demo-chatclient 8000 a1

@@ -1,0 +1,1 @@
+COMMAND_LINE_ERROR_MESSAGE = "Usage: chatclient port_number client_username"

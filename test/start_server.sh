@@ -1,0 +1,1 @@
+python3 /Users/zjc/PycharmProject/UQCourses/2025Sem1/COMS3200_Computer_Networks_I/assignment/code/chatserver.py 1000 /Users/zjc/PycharmProject/UQCourses/2025Sem1/COMS3200_Computer_Networks_I/assignment/code/config_file
